@@ -27,7 +27,7 @@ Ich möchte mein Portfolio am Schluss benutzen können, damit ich beim bewerbung
 | 3  | muss | Funktional | Die Website soll responsiv sein, sodass sie auf mobilen Geräten gut aussieht und funktioniert. |
 | 4  | muss | Funktional | 	Jedes Projekt im Portfolio soll eine eigene Seite oder Sektion mit Beschreibung und Bildern haben. |
 | 5  | muss | Funktional | Die Website soll eine kurze „Über mich“-Sektion enthalten, die den Entwickler vorstellt. |
-| ...  |                 |      |                                    |
+| 6  | muss | Funktional | |
 | ...  |                 |      |                                    |
 
 
