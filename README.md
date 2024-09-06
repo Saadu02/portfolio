@@ -27,12 +27,10 @@ Ich möchte mein Portfolio am Schluss benutzen können, damit ich beim bewerbung
 | 2  | muss | Qualität | Die Navigation der Website soll einfach und intuitiv sein, mit klaren Menüpunkten. |
 | 3  | muss | Funktional | Die Website soll responsiv sein, sodass sie auf mobilen Geräten gut aussieht und funktioniert. |
 | 4  | muss | Funktional | 	Jedes Projekt im Portfolio soll eine eigene Abschnitt mit Beschreibung und Bildern haben. |
-| 5  | muss | Funktional | Die Website soll eine kurze „Über mich“-Sektion enthalten, die den Entwickler vorstellt. |
+| 5  | muss | Funktional | Die Website soll eine kurze „Über mich“-Sektion (Button) enthalten, die den Entwickler vorstellt. |
 | 6  | muss | Funktional | Die Website soll Projekte sowie auch Projekt-Informationen enthalten, welche ich danach mit einem klick schauen kann.|
 | 7  | muss | Funktional | Es soll eine "hover" Funktion haben, welche die Projekte rausschaut oder sich vergrössert. |
 
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
@@ -45,13 +43,11 @@ Ich möchte mein Portfolio am Schluss benutzen können, damit ich beim bewerbung
 | 6.1  | Projekt-Button geklickt | drückt auf ein Projekt | Das Projekt öffnet sich auf eine neue Seite. |
 | 7.1  | Projekt-Button geklickt | gehe rüber mit meinem Maus auf ein Projekt | die kleine Projekt-Seite vergrössert sich. |
 | ...  |              |         |                   |
-| ...  |              |         |                   |
 
 
 ### 1.4 Diagramme
 
 ![Vorlage](https://github.com/user-attachments/assets/dedfd480-0e00-4089-9244-694f80d35ea0)
-
 
 ## 2 Planen
 
@@ -60,12 +56,14 @@ Ich möchte mein Portfolio am Schluss benutzen können, damit ich beim bewerbung
 | 1.A  | 23.08.2024 | Sathana Suganthasri | Informationen sammeln |
 | 2.A  | 30.08.2024 | Sathana Suganthasri | Mock-up für Vorlage |
 | 3.A  | 30.08.2024 | Sathana Suganthasri | Mock-up design programmieren |
+| 1.B  | 30.08.2024 | Sathana Suganthasri | Navigation/Menü-Funktion implementieren |
+| 1.C  | 13.09.2024 | Sathana Suganthasri | Responsive |
+| 1.D  | 06.09.2024 | Sathana Suganthasri | Informationen bzw. Daten mit der Website verbinden/hinzufügen |
+| 1.E  | 06.09.2024 | Sathana Suganthasri | Button Funktion mit bestimmmten Abschnitt zu anzeigen, implementieren |
+| 1.F  | 13.09.2024 | Sathana Suganthasri | Verknüpfung Projekt mit neuen Fenster |
+| 1.F  | 13.09.2024 | Sathana Suganthasri | Hover-Funktion |
 
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+Total: 9
 
 ## 3 Entscheiden
 
