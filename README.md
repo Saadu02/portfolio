@@ -5,7 +5,9 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 23.08.2024 | 0.0.1   | Dokumentation --> Anforderung und Testfälle erstellt. |
+| 30.08.2024 | 0.0.2   | Dokumentation --> Diagram, Plan erstellt und Entscheidung ausgefüllt. |
+| 06.08.2024 | 0.0.3   | Vorlage erstellt. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -13,9 +15,8 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+
 Eine Website über mich bzw. eine Portfolio erstellen.
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 Ich möchte mein Portfolio am Schluss benutzen können, damit ich beim bewerbung einen guten eindruck machen kann. 
 
 ### 1.2 Anforderungen
@@ -54,10 +55,11 @@ Ich möchte mein Portfolio am Schluss benutzen können, damit ich beim bewerbung
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 23.09.2024 | Sathana Suganthasri | Mock-up für Vorlage | 30min |
-| ...  |23.|           |              |               |
+| AP-№ | Frist | Zuständig | Beschreibung |
+| ---- | ----- | --------- | ------------ | 
+| 1.A  | 23.08.2024 | Sathana Suganthasri | Informationen sammeln |
+| 2.A  | 30.08.2024 | Sathana Suganthasri | Mock-up für Vorlage |
+| 3.A  | 30.08.2024 | Sathana Suganthasri | Mock-up design programmieren |
 
 Total: 
 
@@ -67,7 +69,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich habe mich entschieden auf Visual Studio Code meine Website zu entwickeln mit Html, CSS, JSON und JavaScript. 
 
 ## 4 Realisieren
 
