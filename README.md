@@ -22,13 +22,13 @@ Ich möchte mein Portfolio am Schluss benutzen können, damit ich beim bewerbung
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss | Qualität | Die Website soll ein modernes, ansprechendes Design haben, das die Projekte klar präsentiert. |
+| 1  | muss | Qualität | Die Website soll ein modernes, ansprechendes Design haben, das die Projekte klar präsentiert. |
 | 2  | muss | Qualität | Die Navigation der Website soll einfach und intuitiv sein, mit klaren Menüpunkten. |
 | 3  | muss | Funktional | Die Website soll responsiv sein, sodass sie auf mobilen Geräten gut aussieht und funktioniert. |
-| 4  | muss | Funktional | 	Jedes Projekt im Portfolio soll eine eigene Seite oder Sektion mit Beschreibung und Bildern haben. |
+| 4  | muss | Funktional | 	Jedes Projekt im Portfolio soll eine eigene Abschnitt mit Beschreibung und Bildern haben. |
 | 5  | muss | Funktional | Die Website soll eine kurze „Über mich“-Sektion enthalten, die den Entwickler vorstellt. |
-| 6  | muss | Funktional | |
-| ...  |                 |      |                                    |
+| 6  | muss | Funktional | Die Website soll Projekte sowie auch Projekt-Informationen enthalten, welche ich danach mit einem klick schauen kann.|
+| 7  | muss | Funktional | Es soll eine "hover" Funktion haben, welche die Projekte rausschaut oder sich vergrössert. |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -37,21 +37,27 @@ Ich möchte mein Portfolio am Schluss benutzen können, damit ich beim bewerbung
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
+| 2.1  | Website geöffnet | Hobbies-Button klicken | zeigt die Abschnit "Hobbies". |
+| 3.1  | Website geöffnet | Handy-Modus klicken | Die Sachen werden angepasst. |
+| 4.1  | Website geöffnet | Projekt-Button | Zeigt die Abschnitte des Projekts mit Bilder und Beschreibung. |
+| 5.1  | Website geöffnet | Button-About me klicken | Zeigt Informationen über mich. |
+| 6.1  | Projekt-Button geklickt | drückt auf ein Projekt | Das Projekt öffnet sich auf eine neue Seite. |
+| 7.1  | Projekt-Button geklickt | gehe rüber mit meinem Maus auf ein Projekt | die kleine Projekt-Seite vergrössert sich. |
+| ...  |              |         |                   |
 | ...  |              |         |                   |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+![Vorlage](https://github.com/user-attachments/assets/dedfd480-0e00-4089-9244-694f80d35ea0)
+
 
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 23.09.2024 | Sathana Suganthasri | Mock-up für Vorlage | 30min |
+| ...  |23.|           |              |               |
 
 Total: 
 
