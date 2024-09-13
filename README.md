@@ -30,6 +30,7 @@ Ich möchte mein Portfolio am Schluss benutzen können, damit ich beim bewerbung
 | 6  | muss | Funktional |Die Website soll Projekte sowie Projektinformationen enthalten, die mit einem Klick eingesehen werden können. |
 | 7  | muss | Funktional | Es soll eine Hover-Funktion vorhanden sein, die die Projekte vergrößert oder hervorhebt. |
 | 8  | muss | Funktional | Es soll eine Spalte enthalten, welche man sehen kann, welche Technologien man schon kennt. |
+| 9  | muss | Funktional | Diese Website soll veröffentlicht werden, damit die Arbeitsgeber zugriff auf mein Portfolio hat. |
 
 
 ### 1.3 Testfälle
@@ -63,7 +64,7 @@ Ich möchte mein Portfolio am Schluss benutzen können, damit ich beim bewerbung
 | 1.F | 13.09.2024 | Sathana Suganthasri | Verknüpfung der Projekte mit neuen Fenstern |
 | 1.G | 13.09.2024 | Sathana Suganthasri | Hover-Funktion umsetzen |
 | 1.H | 18.10.2024 | Sathana Suganthasri | Technologien anzeigen |
-|     | 25.10.2024 | Sathana Suganthasri | Veröffentlichen | 
+| 1.I | 25.10.2024 | Sathana Suganthasri | Veröffentlichen | 
 
 Total: 10
 
@@ -85,6 +86,7 @@ Ich habe mich entschieden auf Visual Studio Code meine Website zu entwickeln mit
 | 1.F | 13.09.2024 | Sathana Suganthasri |
 | 1.G | 13.09.2024 | Sathana Suganthasri |
 | 1.H | 18.10.2024 | Sathana Suganthasri |
+| 1.I | 18.10.2024 | Sathana Suganthasri |
 
 
 ## 5 Kontrollieren
@@ -102,4 +104,4 @@ Ich habe mich entschieden auf Visual Studio Code meine Website zu entwickeln mit
 | ?.1  | 25.10.2024 |          | Sathana Suganthasri |
 
 
-Das Spiel wurde im HP Windows 11 Pro sowie auch asus vivobook Windows 11 getesten und funktioniert fehlerfrei.
+Die Webseite wurde im HP Windows 11 Pro getesten und funktioniert fehlerfrei.
