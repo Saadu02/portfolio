@@ -64,6 +64,7 @@ Ich möchte mein Portfolio am Schluss benutzen können, damit ich beim bewerbung
 | 1.F | 13.09.2024 | Sathana Suganthasri | Verknüpfung der Projekte mit neuen Fenstern |
 | 1.G | 13.09.2024 | Sathana Suganthasri | Hover-Funktion umsetzen |
 | 1.H | 18.10.2024 | Sathana Suganthasri | Technologien anzeigen |
+|     | 25.10.2024 | Sathana Suganthasri | Veröffentlichen | 
 
 Total: 10
 
