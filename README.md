@@ -82,11 +82,9 @@ Ich habe mich entschieden auf Visual Studio Code meine Website zu entwickeln mit
 | 1.C | 13.09.2024 | Sathana Suganthasri |
 | 1.D | 06.09.2024 | Sathana Suganthasri |
 | 1.E | 06.09.2024 | Sathana Suganthasri |
-| 1.F | 13.09.2024| Sathana Suganthasri |
-| 1.G | 13.09.2024| Sathana Suganthasri |
-| 1.? |       | Sathana Suganthasri |
-
-
+| 1.F | 13.09.2024 | Sathana Suganthasri |
+| 1.G | 13.09.2024 | Sathana Suganthasri |
+| 1.H | 18.10.2024 | Sathana Suganthasri |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
