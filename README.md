@@ -71,10 +71,20 @@ Ich habe mich entschieden auf Visual Studio Code meine Website zu entwickeln mit
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| AP-№ | Datum | Zuständig | 
+| ---- | ----- | --------- | 
+| 1.A  | 23.08.2024 | Sathana Suganthasri |
+| 2.A  | 30.08.2024 | Sathana Suganthasri |
+| 3.A  | 30.08.2024 | Sathana Suganthasri |
+| 1.B  | 30.08.2024 | Sathana Suganthasri |
+| 1.C  | 13.09.2024 | Sathana Suganthasri |
+| 1.D  | 06.09.2024 | Sathana Suganthasri |
+| 1.E  | 06.09.2024 | Sathana Suganthasri |
+| 1.F  | 13.09.2024| Sathana Suganthasri |
+| 1.G  | 13.09.2024| Sathana Suganthasri |
+| 1.?  |       | Sathana Suganthasri |
+
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
@@ -84,7 +94,13 @@ Ich habe mich entschieden auf Visual Studio Code meine Website zu entwickeln mit
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 2.1  | 18.10.2024 |          | Sathana Suganthasri |
+| 3.1  | 18.10.2024 |          | Sathana Suganthasri |
+| 4.1  | 18.10.2024 |          | Sathana Suganthasri |
+| 5.1  | 18.10.2024 |          | Sathana Suganthasri |
+| 6.1  | 18.10.2024 |          | Sathana Suganthasri |
+| 7.1  | 18.10.2024 |          | Sathana Suganthasri |
+| ?.1  | 18.10.2024 |          | Sathana Suganthasri |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+
+Das Spiel wurde im HP Windows 11 Pro sowie auch asus vivobook Windows 11 getesten und funktioniert fehlerfrei.
