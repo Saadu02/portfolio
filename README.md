@@ -1,7 +1,6 @@
 # portfolio
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Sathana Suganthasri
+Sathana Suganthasri
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -11,10 +10,10 @@
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
+
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
-
 
 Eine Website über mich bzw. eine Portfolio erstellen.
 Ich möchte mein Portfolio am Schluss benutzen können, damit ich beim bewerbung einen guten eindruck machen kann. 
@@ -95,13 +94,13 @@ Ich habe mich entschieden auf Visual Studio Code meine Website zu entwickeln mit
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 2.1  | 18.10.2024 |          | Sathana Suganthasri |
-| 3.1  | 18.10.2024 |          | Sathana Suganthasri |
-| 4.1  | 18.10.2024 |          | Sathana Suganthasri |
-| 5.1  | 18.10.2024 |          | Sathana Suganthasri |
-| 6.1  | 18.10.2024 |          | Sathana Suganthasri |
-| 7.1  | 18.10.2024 |          | Sathana Suganthasri |
-| ?.1  | 18.10.2024 |          | Sathana Suganthasri |
+| 2.1  | 25.10.2024 |          | Sathana Suganthasri |
+| 3.1  | 25.10.2024 |          | Sathana Suganthasri |
+| 4.1  | 25.10.2024 |          | Sathana Suganthasri |
+| 5.1  | 25.10.2024 |          | Sathana Suganthasri |
+| 6.1  | 25.10.2024 |          | Sathana Suganthasri |
+| 7.1  | 25.10.2024 |          | Sathana Suganthasri |
+| ?.1  | 25.10.2024 |          | Sathana Suganthasri |
 
 
 Das Spiel wurde im HP Windows 11 Pro sowie auch asus vivobook Windows 11 getesten und funktioniert fehlerfrei.
