@@ -7,8 +7,7 @@ Sathana Suganthasri
 | 23.08.2024 | 0.0.1   | Dokumentation --> Anforderung und Testfälle erstellt. |
 | 30.08.2024 | 0.0.2   | Dokumentation --> Diagram, Plan erstellt und Entscheidung ausgefüllt. |
 | 06.08.2024 | 0.0.3   | Vorlage erstellt. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 25.10.2024 | 0.0.4   | Das Projekt fertig entwickelt|
 
 
 ## 1 Informieren
@@ -43,7 +42,6 @@ Ich möchte mein Portfolio am Schluss benutzen können, damit ich beim bewerbung
 | 5.1 | Website geöffnet | Button „About Me“ klicken |Informationen über mich werden angezeigt. |
 | 6.1 | Projekt-Button geklickt | Auf ein Projekt klicken | Das Projekt öffnet sich auf einer neuen Seite. |
 | 7.1 | Projekt-Button geklickt | Maus über ein Projekt bewegen | Die Vorschau des Projekts vergrössert sich. |
-| ... |              |         |                   |
 
 
 ### 1.4 Diagramme
@@ -95,13 +93,13 @@ Ich habe mich entschieden auf Visual Studio Code meine Website zu entwickeln mit
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 2.1  | 25.10.2024 |          | Sathana Suganthasri |
-| 3.1  | 25.10.2024 |          | Sathana Suganthasri |
-| 4.1  | 25.10.2024 |          | Sathana Suganthasri |
-| 5.1  | 25.10.2024 |          | Sathana Suganthasri |
-| 6.1  | 25.10.2024 |          | Sathana Suganthasri |
-| 7.1  | 25.10.2024 |          | Sathana Suganthasri |
-| ?.1  | 25.10.2024 |          | Sathana Suganthasri |
+| 2.1  | 25.10.2024 | OK | Sathana Suganthasri |
+| 3.1  | 25.10.2024 | OK | Sathana Suganthasri |
+| 4.1  | 25.10.2024 | OK | Sathana Suganthasri |
+| 5.1  | 25.10.2024 | OK | Sathana Suganthasri |
+| 6.1  | 25.10.2024 | OK | Sathana Suganthasri |
+| 7.1  | 25.10.2024 | OK | Sathana Suganthasri |
+| ?.1  | 25.10.2024 | OK | Sathana Suganthasri |
 
 
 Die Webseite wurde im HP Windows 11 Pro getesten und funktioniert fehlerfrei.
